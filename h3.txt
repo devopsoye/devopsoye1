@@ -1,1 +1,4 @@
 echo "welcome world"
+echo "your days"
+mkdir my\world
+
